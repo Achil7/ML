@@ -1,1 +1,1 @@
-colab에서 
+colab에서 실행함
