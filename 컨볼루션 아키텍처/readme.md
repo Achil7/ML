@@ -1,1 +1,1 @@
-colab gpu 사용함
+다시 업로드 colab gpu
