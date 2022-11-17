@@ -1,1 +1,1 @@
-다시 업로드 colab gpu
+colab gpu로 실행
