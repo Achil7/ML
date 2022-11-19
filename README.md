@@ -8,5 +8,5 @@ XGBoost : https://lsjsj92.tistory.com/547
 
 성능측정지표 : https://mizykk.tistory.com/102
 
-개발 : https://hiio.tistory.com/38
+개발 : https://hiio.tistory.com/31
 
